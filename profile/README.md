@@ -30,6 +30,8 @@ Building a useful AI agent today still means stitching many pieces together — 
 
 ## Projects
 
+- [`xagent`](https://github.com/xagent-labs/xagent) — **Start here.** XAgent overview, capabilities, and ecosystem entry point.
+- [`x-agent`](https://github.com/xagent-labs/x-agent) — X-Agent overview and quick links.
 - [`xpense`](https://github.com/xagent-labs/xpense) — TypeScript SDK for agentic payments, budgets, approval, Payment Intents, and x402 settlement flows.
 - [`xagt-plugin`](https://github.com/xagent-labs/xagt-plugin) — X-Agent plugin marketplace and OKX Agentic Wallet hackathon submissions.
 
