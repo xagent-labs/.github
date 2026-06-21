@@ -1,18 +1,18 @@
 <div align="center">
 
-# X-Agent
+# XAgent
 
 ### Build, run, and monetize AI agents
 
-**X-Agent is the AI agent platform at [xagt.ai](https://xagt.ai) — describe an agent in plain language and get a working product you can publish and monetize.**
+**XAgent is the AI agent platform at [xagt.ai](https://xagt.ai) — describe an agent in plain language and get a working product you can publish and monetize.**
 
 </div>
 
 ---
 
-## What is X-Agent?
+## What is XAgent?
 
-X-Agent takes an idea described in plain language and turns it into a working AI agent or AI-powered web app. You describe what you want; X-Agent builds it, shows it to you live, and gives you a hosted agent product that you and your users can actually use.
+XAgent takes an idea described in plain language and turns it into a working AI agent or AI-powered web app. You describe what you want; X-Agent builds it, shows it to you live, and gives you a hosted agent product that you and your users can actually use.
 
 ## What it gives you
 
