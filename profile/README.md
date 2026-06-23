@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href='https://www.saashub.com/xagent?utm_source=badge&utm_campaign=badge&utm_content=xagent&badge_variant=color&badge_kind=approved' target='_blank'><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="XAgent badge" style="max-width: 150px;"/></a>
+
 
 # XAgent
 
@@ -9,6 +9,8 @@
 **XAgent is the AI agent platform at [xagt.ai](https://xagt.ai) — describe an agent in plain language and get a working product you can publish and monetize.**
 
 </div>
+
+<a href='https://www.saashub.com/xagent?utm_source=badge&utm_campaign=badge&utm_content=xagent&badge_variant=color&badge_kind=approved' target='_blank'><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="XAgent badge" style="max-width: 80px;"/></a>
 
 ---
 
@@ -32,3 +34,4 @@ XAgent takes an idea described in plain language and turns it into a working AI 
 
 - Website — [xagt.ai](https://xagt.ai)
 - X — [@XAgent_official](https://x.com/XAgent_official)
+
