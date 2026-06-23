@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href='https://www.saashub.com/xagent?utm_source=badge&utm_campaign=badge&utm_content=xagent&badge_variant=color&badge_kind=approved' target='_blank'><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="XAgent badge" style="max-width: 150px;"/></a>
+
 # XAgent
 
 ### Build, run, and monetize AI agents
